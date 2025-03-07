@@ -6,7 +6,6 @@ import {
   KeyboardArrowUp,
   MoreHoriz,
 } from "@mui/icons-material";
-
 import GeneralContext from "../GeneralContext/GeneralContext";
 import { watchlist } from "../../data/data";
 import DoughnutChart from "../DoughnutChart/DoughnutChart";
